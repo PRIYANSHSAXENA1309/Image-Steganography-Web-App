@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(193, 222, 248); 
+    padding: 20px;
+    background-image: url("https://cdn.pixabay.com/photo/2014/12/29/15/36/business-582912_640.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+body nav{
+    background-color: rgb(177, 250, 250);
+}
+
+.container{
+    background-color: aliceblue;
+}
+.subheading1{
+    padding: 20px;
+    background-color: red;
+}
+/* .form{
+background-color: black;
+} */
+.form1{
+    /* background-color: rgb(194, 222, 241); */
+    color: black;
+    font-size: bold;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoc22Of1i-UHRwq__r-tGfniEx6KIx6LJ1_g&s');
+
+
+}
